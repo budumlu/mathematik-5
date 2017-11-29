@@ -4,7 +4,7 @@ Häufig ist es sinnvoll nicht genau zu rechnen sondern eine **Überschlagsrechnu
 
 Möchte man zum Beispiel wissen, ob für einen Einkauf im Supermarkt das mitgebrachte Geld ausreicht rundet man die Beträge auf ganze Eurobeträge (€).
 
-**Aufgabe 1:**Finde heraus nach welchen Regeln man üblicherweise rundet, in dem Du das Programm unten mit ein paar Zahlen ausprobierst.
+**Aufgabe 1:**Finde heraus nach welchen Regeln man üblicherweise rundet, indem Du das Programm unten mit ein paar Zahlen ausprobierst.
 
 <iframe scrolling="no" title="" src="https://www.geogebra.org/material/iframe/id/Jj77b6BJ/width/850/height/351/border/888888/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/false" width="850px" height="351px" style="border:0px;"> </iframe>
 
