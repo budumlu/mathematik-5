@@ -1,5 +1,5 @@
 # Runden
-## Rundenauf ganze Zahlen
+## Runden auf ganze Zahlen
 Häufig ist es sinnvoll nicht genau zu rechnen sondern eine **Überschlagsrechnung** durchzuführen. 
 
 Möchte man zum Beispiel wissen, ob für einen Einkauf im Supermarkt das mitgebrachte Geld ausreicht rundet man die Beträge auf ganze Eurobeträge (€).
