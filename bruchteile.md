@@ -25,7 +25,7 @@ Eine Pizza kann in verschiedene Bruchteile aufgeteilt werden.
 ##Bruchteile am Rechteck
 Brüche können auch als Anteile eines Rechtecks dargestellt werden. 
 1. Schaue Dir an, wie die Brüche hier dargestellt werden, in dem Du die interaktive Aufgabe ausprobierst.
-2. Erkläre wie man einfach mit Papier den Bruch $$\frac{1}{4}$$ falten kann. Gibt es dafür verschiedene Möglichkeiten? Beschreibe welche!
+2. Erkläre wie man einfach mit Papier den Bruch $\frac{1}{4}$ falten kann. Gibt es dafür verschiedene Möglichkeiten? Beschreibe welche!
 <iframe scrolling="no" title="Bruchteile" src="https://www.geogebra.org/material/iframe/id/AccC9w6x/width/792/height/288/border/888888/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/true/rc/false/ld/false/sdz/true/ctl/false" width="792px" height="288px" style="border:0px;"> </iframe>
 
 ##Brüche vergleichen
