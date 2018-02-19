@@ -1,0 +1,2 @@
+# Bruchteile
+<iframe scrolling="no" title="Brüche erkennen" src="https://www.geogebra.org/material/iframe/id/B58Gtuuc/width/982/height/458/border/888888/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/false" width="982px" height="458px" style="border:0px;"> </iframe>
