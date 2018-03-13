@@ -6,4 +6,5 @@
 * [Größen und Komma](grossen-und-komma.md)
 * [Proportionalität](proportionalitat.md)
 * [Bruchteile](bruchteile.md)
+* [Flächen](flachen.md)
 
