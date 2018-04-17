@@ -1,10 +1,10 @@
-# Summary
+# Table of contents
 
 * [Einleitung](README.md)
 * [Zahlenstrahl](zahlenstrahl.md)
-* [Runden](chapter1.md)
-* [Größen und Komma](grossen-und-komma.md)
-* [Proportionalität](proportionalitat.md)
+* [Runden](runden.md)
+* [Größen und Komma](groessen-und-komma.md)
+* [Proportionalität](proportionalitaet.md)
 * [Bruchteile](bruchteile.md)
-* [Flächen](flachen.md)
+* [Flächen](flaechen.md)
 
